@@ -7,5 +7,5 @@ Please read WinUIDockREADME for nuget info
 
 Make sure that the startup project is set to:
 
-src\examples\WinUIApp\WunUIApp.csproj
+src\examples\WinUIApp\WunUIApp
 
