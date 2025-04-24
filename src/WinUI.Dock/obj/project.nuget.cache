@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "LAxFo7O2i9M=",
+  "success": true,
+  "projectFilePath": "C:\\DEV\\WinUI.Dock-master\\WinUI.Dock-master\\src\\WinUI.Dock\\WinUI.Dock.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arthur.Jordison\\.nuget\\packages\\communitytoolkit.common\\8.2.1\\communitytoolkit.common.8.2.1.nupkg.sha512",
+    "C:\\Users\\Arthur.Jordison\\.nuget\\packages\\communitytoolkit.winui.controls.layouttransformcontrol\\8.2.250402\\communitytoolkit.winui.controls.layouttransformcontrol.8.2.250402.nupkg.sha512",
+    "C:\\Users\\Arthur.Jordison\\.nuget\\packages\\communitytoolkit.winui.controls.sizers\\8.2.250402\\communitytoolkit.winui.controls.sizers.8.2.250402.nupkg.sha512",
+    "C:\\Users\\Arthur.Jordison\\.nuget\\packages\\communitytoolkit.winui.extensions\\8.2.250402\\communitytoolkit.winui.extensions.8.2.250402.nupkg.sha512",
+    "C:\\Users\\Arthur.Jordison\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.4\\microsoft.net.illink.tasks.9.0.4.nupkg.sha512",
+    "C:\\Users\\Arthur.Jordison\\.nuget\\packages\\microsoft.web.webview2\\1.0.3179.45\\microsoft.web.webview2.1.0.3179.45.nupkg.sha512",
+    "C:\\Users\\Arthur.Jordison\\.nuget\\packages\\microsoft.windows.sdk.buildtools\\10.0.22621.756\\microsoft.windows.sdk.buildtools.10.0.22621.756.nupkg.sha512",
+    "C:\\Users\\Arthur.Jordison\\.nuget\\packages\\microsoft.windowsappsdk\\1.7.250401001\\microsoft.windowsappsdk.1.7.250401001.nupkg.sha512",
+    "C:\\Users\\Arthur.Jordison\\.nuget\\packages\\roslynator.analyzers\\4.13.1\\roslynator.analyzers.4.13.1.nupkg.sha512",
+    "C:\\Users\\Arthur.Jordison\\.nuget\\packages\\uno.diagnostics.eventing\\2.0.1\\uno.diagnostics.eventing.2.0.1.nupkg.sha512",
+    "C:\\Users\\Arthur.Jordison\\.nuget\\packages\\uno.fonts.fluent\\2.6.1\\uno.fonts.fluent.2.6.1.nupkg.sha512",
+    "C:\\Users\\Arthur.Jordison\\.nuget\\packages\\uno.foundation.logging\\5.6.99\\uno.foundation.logging.5.6.99.nupkg.sha512",
+    "C:\\Users\\Arthur.Jordison\\.nuget\\packages\\uno.winui\\5.6.99\\uno.winui.5.6.99.nupkg.sha512",
+    "C:\\Users\\Arthur.Jordison\\.nuget\\packages\\xamltools.msbuild\\1.0.0-alpha0167\\xamltools.msbuild.1.0.0-alpha0167.nupkg.sha512",
+    "C:\\Users\\Arthur.Jordison\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\9.0.4\\microsoft.netcore.app.runtime.win-x86.9.0.4.nupkg.sha512",
+    "C:\\Users\\Arthur.Jordison\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22621.57\\microsoft.windows.sdk.net.ref.10.0.22621.57.nupkg.sha512",
+    "C:\\Users\\Arthur.Jordison\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\9.0.4\\microsoft.aspnetcore.app.runtime.win-x86.9.0.4.nupkg.sha512",
+    "C:\\Users\\Arthur.Jordison\\.nuget\\packages\\microsoft.netcore.app.runtime.win-arm64\\9.0.4\\microsoft.netcore.app.runtime.win-arm64.9.0.4.nupkg.sha512",
+    "C:\\Users\\Arthur.Jordison\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\9.0.4\\microsoft.aspnetcore.app.runtime.win-x64.9.0.4.nupkg.sha512",
+    "C:\\Users\\Arthur.Jordison\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-arm64\\9.0.4\\microsoft.windowsdesktop.app.runtime.win-arm64.9.0.4.nupkg.sha512",
+    "C:\\Users\\Arthur.Jordison\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\9.0.4\\microsoft.windowsdesktop.app.runtime.win-x64.9.0.4.nupkg.sha512",
+    "C:\\Users\\Arthur.Jordison\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-arm64\\9.0.4\\microsoft.aspnetcore.app.runtime.win-arm64.9.0.4.nupkg.sha512",
+    "C:\\Users\\Arthur.Jordison\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\9.0.4\\microsoft.netcore.app.runtime.win-x64.9.0.4.nupkg.sha512",
+    "C:\\Users\\Arthur.Jordison\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\9.0.4\\microsoft.windowsdesktop.app.runtime.win-x86.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

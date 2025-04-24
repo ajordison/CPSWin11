@@ -1,0 +1,267 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\DEV\\WinUI.Dock-master\\WinUI.Dock-master\\src\\WinUI.Dock\\WinUI.Dock.csproj": {}
+  },
+  "projects": {
+    "C:\\DEV\\WinUI.Dock-master\\WinUI.Dock-master\\src\\WinUI.Dock\\WinUI.Dock.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\DEV\\WinUI.Dock-master\\WinUI.Dock-master\\src\\WinUI.Dock\\WinUI.Dock.csproj",
+        "projectName": "WinUI.Dock",
+        "projectPath": "C:\\DEV\\WinUI.Dock-master\\WinUI.Dock-master\\src\\WinUI.Dock\\WinUI.Dock.csproj",
+        "packagesPath": "C:\\Users\\Arthur.Jordison\\.nuget\\packages\\",
+        "outputPath": "C:\\DEV\\WinUI.Dock-master\\WinUI.Dock-master\\src\\WinUI.Dock\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "centralPackageVersionsManagementEnabled": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Arthur.Jordison\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0",
+          "net9.0-windows10.0.22621.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          },
+          "net9.0-windows10.0.22621": {
+            "targetAlias": "net9.0-windows10.0.22621.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "CommunityToolkit.WinUI.Controls.LayoutTransformControl": {
+              "target": "Package",
+              "version": "[8.2.250402, )",
+              "versionCentrallyManaged": true
+            },
+            "CommunityToolkit.WinUI.Controls.Sizers": {
+              "target": "Package",
+              "version": "[8.2.250402, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.4, )",
+              "autoReferenced": true
+            },
+            "Roslynator.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[4.13.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Fonts.Fluent": {
+              "target": "Package",
+              "version": "[2.6.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.WinUI": {
+              "target": "Package",
+              "version": "[5.6.99, )",
+              "versionCentrallyManaged": true
+            },
+            "XAMLTools.MSBuild": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0-alpha0167, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "CommunityToolkit.WinUI.Controls.LayoutTransformControl": "8.2.250402",
+            "CommunityToolkit.WinUI.Controls.Sizers": "8.2.250402",
+            "CommunityToolkit.WinUI.Triggers": "8.1.240916",
+            "Microsoft.Web.WebView2": "1.0.3179.45",
+            "Microsoft.Windows.SDK.BuildTools": "10.0.26100.1742",
+            "Microsoft.WindowsAppSDK": "1.7.250401001",
+            "Roslynator.Analyzers": "4.13.1",
+            "Uno.Fonts.Fluent": "2.6.1",
+            "Uno.WinUI": "5.6.99",
+            "XAMLTools.MSBuild": "1.0.0-alpha0167"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        },
+        "net9.0-windows10.0.22621": {
+          "targetAlias": "net9.0-windows10.0.22621.0",
+          "dependencies": {
+            "CommunityToolkit.WinUI.Controls.LayoutTransformControl": {
+              "target": "Package",
+              "version": "[8.2.250402, )",
+              "versionCentrallyManaged": true
+            },
+            "CommunityToolkit.WinUI.Controls.Sizers": {
+              "target": "Package",
+              "version": "[8.2.250402, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.4, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Web.WebView2": {
+              "include": "None",
+              "target": "Package",
+              "version": "[1.0.3179.45, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.WindowsAppSDK": {
+              "target": "Package",
+              "version": "[1.7.250401001, )",
+              "versionCentrallyManaged": true
+            },
+            "Roslynator.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[4.13.1, )",
+              "versionCentrallyManaged": true
+            },
+            "XAMLTools.MSBuild": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0-alpha0167, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "CommunityToolkit.WinUI.Controls.LayoutTransformControl": "8.2.250402",
+            "CommunityToolkit.WinUI.Controls.Sizers": "8.2.250402",
+            "CommunityToolkit.WinUI.Triggers": "8.1.240916",
+            "Microsoft.Web.WebView2": "1.0.3179.45",
+            "Microsoft.Windows.SDK.BuildTools": "10.0.26100.1742",
+            "Microsoft.WindowsAppSDK": "1.7.250401001",
+            "Roslynator.Analyzers": "4.13.1",
+            "Uno.Fonts.Fluent": "2.6.1",
+            "Uno.WinUI": "5.6.99",
+            "XAMLTools.MSBuild": "1.0.0-alpha0167"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-arm64",
+              "version": "[9.0.4, 9.0.4]"
+            },
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+              "version": "[9.0.4, 9.0.4]"
+            },
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x86",
+              "version": "[9.0.4, 9.0.4]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-arm64",
+              "version": "[9.0.4, 9.0.4]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x64",
+              "version": "[9.0.4, 9.0.4]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x86",
+              "version": "[9.0.4, 9.0.4]"
+            },
+            {
+              "name": "Microsoft.Windows.SDK.NET.Ref",
+              "version": "[10.0.22621.57, 10.0.22621.57]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-arm64",
+              "version": "[9.0.4, 9.0.4]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+              "version": "[9.0.4, 9.0.4]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x86",
+              "version": "[9.0.4, 9.0.4]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Windows.SDK.NET.Ref.Windows": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
